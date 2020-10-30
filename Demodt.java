@@ -1,7 +1,7 @@
 public class Demodt
 {
   private int day,month,year;
-  MyDate()
+  Demodt()
   {
    day=20;month=10;year=2020;
   }
